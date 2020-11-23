@@ -1,0 +1,11 @@
+{
+  "sensorId": "homebridge-692D",
+  "secretKey": "FZKKVOBRUT9GFYX",
+  "debug": false,
+  "provider": "https://nodes.devnet.iota.org",
+  "endpoint": "https://us-central1-datamarket-617e1.cloudfunctions.net/newData",
+  "serverUrl": "https://swapi.co/api/vehicles/",
+  "homeBridgeAPIUrl" : "http://homebridge.local/api/",
+  "homeBridgeUser" : "ApiReader",
+  "homeBridgePswrd" : "ApiReader"
+}

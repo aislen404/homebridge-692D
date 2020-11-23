@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "Thermostat",
+    "Room": "Salon",
+    "Measure": "23.1",
+    "Unit": "celsius"
+  },
+  {
+    "Device": "Thermostat",
+    "Room": "Dormitorio Matrimonio",
+    "Measure": "21.8",
+    "Unit": "celsius"
+  },
+  {
+    "Device": "Thermostat",
+    "Room": "Dormitorio Pequeño",
+    "Measure": "22",
+    "Unit": "celsius"
+  },
+  {
+    "Device": "Humidity Sensor",
+    "Room": "Salon",
+    "Measure": "47",
+    "Unit": "percentage"
+  },
+  {
+    "Device": "Humidity Sensor",
+    "Room": "Dormitorio Matrimonio",
+    "Measure": "57",
+    "Unit": "percentage"
+  },
+  {
+    "Device": "Humidity Sensor",
+    "Room": "Dormitorio Pequeño",
+    "Measure": "55",
+    "Unit": "percentage"
+  }
+]
