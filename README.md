@@ -1,0 +1,1 @@
+# homebridge-692D
